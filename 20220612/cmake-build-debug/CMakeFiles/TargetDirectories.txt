@@ -1,3 +1,0 @@
-/home/effun/code/20220612/cmake-build-debug/CMakeFiles/20220612.dir
-/home/effun/code/20220612/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/effun/code/20220612/cmake-build-debug/CMakeFiles/rebuild_cache.dir
